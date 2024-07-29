@@ -26,9 +26,9 @@ url                      : "https://teona0823.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : ![](https://yt3.googleusercontent.com/6kZ67LQ0_3Eo7N0RoxyTTEJZNiFZZk5CWPlArM_3Q2lajP_QEEJGkbthRveFxK2EAAMAK3M9AA8=s900-c-k-c0x00ffffff-no-rj)
+logo                     : "/assets/channels5_profile.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : # true, false (default)
+breadcrumbs              : true
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
