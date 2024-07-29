@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "💻 코딩 공부 노트"
+title                    : "💻 코딩 공부노트"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "보코블린"
@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "보코블린"
   avatar           : ![](https://yt3.googleusercontent.com/6kZ67LQ0_3Eo7N0RoxyTTEJZNiFZZk5CWPlArM_3Q2lajP_QEEJGkbthRveFxK2EAAMAK3M9AA8=s900-c-k-c0x00ffffff-no-rj)
   bio              : "CAU CSE 23"
   location         : "Seoul, South Korea"
