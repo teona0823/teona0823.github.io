@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : [BlackGooPlanet](https://yt3.googleusercontent.com/6kZ67LQ0_3Eo7N0RoxyTTEJZNiFZZk5CWPlArM_3Q2lajP_QEEJGkbthRveFxK2EAAMAK3M9AA8=s900-c-k-c0x00ffffff-no-rj)
   bio              : "CAU CSE 23"
   location         : "Seoul, South Korea"
   email            : "teona0823@naver.com"
